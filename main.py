@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup as bs
 from urllib.error import HTTPError,URLError
 from urllib.request import urlopen
-
+##webscrapping players details from NBA site and storing them in CSV file.
 import requests
 import csv
 
