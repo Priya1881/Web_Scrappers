@@ -2,7 +2,7 @@ from bs4 import  BeautifulSoup as bs
 import requests
 from urllib.request import urlopen as uReq
 
-
+##webscrapping product reviews from ebay site.
 
 searchString ="iphone"
 try:
